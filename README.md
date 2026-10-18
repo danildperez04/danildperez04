@@ -25,70 +25,70 @@ Soy desarrollador full-stack y me gusta construir software que resuelva problema
 
 <img src="https://skillicons.dev/icons?i=nestjs,express" alt="NestJS, Express">
 
-<img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white" alt="JWT">
-<img src="https://img.shields.io/badge/Passport-34E27A?style=flat-square&logo=passport&logoColor=white" alt="Passport">
-<img src="https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=swagger&logoColor=black" alt="Swagger">
-<img src="https://img.shields.io/badge/REST-3F4A5A?style=flat-square" alt="REST">
-<img src="https://img.shields.io/badge/2FA-3F4A5A?style=flat-square" alt="2FA">
-<img src="https://img.shields.io/badge/RBAC-3F4A5A?style=flat-square" alt="RBAC">
-<img src="https://img.shields.io/badge/class--validator-3F4A5A?style=flat-square" alt="class-validator">
-<img src="https://img.shields.io/badge/Rate_limiting-3F4A5A?style=flat-square" alt="Rate limiting">
-<img src="https://img.shields.io/badge/Helmet-3F4A5A?style=flat-square" alt="Helmet">
+![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
+![Passport](https://img.shields.io/badge/Passport-34E27A?style=flat-square&logo=passport&logoColor=white)
+![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=swagger&logoColor=black)
+![REST](https://img.shields.io/badge/REST-3F4A5A?style=flat-square)
+![2FA](https://img.shields.io/badge/2FA-3F4A5A?style=flat-square)
+![RBAC](https://img.shields.io/badge/RBAC-3F4A5A?style=flat-square)
+![class-validator](https://img.shields.io/badge/class--validator-3F4A5A?style=flat-square)
+![Rate limiting](https://img.shields.io/badge/Rate_limiting-3F4A5A?style=flat-square)
+![Helmet](https://img.shields.io/badge/Helmet-3F4A5A?style=flat-square)
 
 ### Bases de datos
 
 <img src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL">
 
-<img src="https://img.shields.io/badge/TypeORM-FE0803?style=flat-square&logo=typeorm&logoColor=white" alt="TypeORM">
-<img src="https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white" alt="SQL">
-<img src="https://img.shields.io/badge/Migraciones-3F4A5A?style=flat-square" alt="Migraciones">
-<img src="https://img.shields.io/badge/Seeds-3F4A5A?style=flat-square" alt="Seeds">
-<img src="https://img.shields.io/badge/Transacciones-3F4A5A?style=flat-square" alt="Transacciones">
+![TypeORM](https://img.shields.io/badge/TypeORM-FE0803?style=flat-square&logo=typeorm&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![Migraciones](https://img.shields.io/badge/Migraciones-3F4A5A?style=flat-square)
+![Seeds](https://img.shields.io/badge/Seeds-3F4A5A?style=flat-square)
+![Transacciones](https://img.shields.io/badge/Transacciones-3F4A5A?style=flat-square)
 
 ### Frontend
 
 <img src="https://skillicons.dev/icons?i=react,vite,tailwind,mui" alt="React, Vite, Tailwind CSS, MUI">
 
-<img src="https://img.shields.io/badge/TanStack_Query-FF4154?style=flat-square&logo=reactquery&logoColor=white" alt="TanStack Query">
-<img src="https://img.shields.io/badge/Zustand-443E38?style=flat-square" alt="Zustand">
-<img src="https://img.shields.io/badge/React_Hook_Form-EC5990?style=flat-square&logo=reacthookform&logoColor=white" alt="React Hook Form">
-<img src="https://img.shields.io/badge/Zod-3E67B1?style=flat-square&logo=zod&logoColor=white" alt="Zod">
-<img src="https://img.shields.io/badge/React_Router-CA4245?style=flat-square&logo=reactrouter&logoColor=white" alt="React Router">
+![TanStack Query](https://img.shields.io/badge/TanStack_Query-FF4154?style=flat-square&logo=reactquery&logoColor=white)
+![Zustand](https://img.shields.io/badge/Zustand-443E38?style=flat-square)
+![React Hook Form](https://img.shields.io/badge/React_Hook_Form-EC5990?style=flat-square&logo=reacthookform&logoColor=white)
+![Zod](https://img.shields.io/badge/Zod-3E67B1?style=flat-square&logo=zod&logoColor=white)
+![React Router](https://img.shields.io/badge/React_Router-CA4245?style=flat-square&logo=reactrouter&logoColor=white)
 
 ### Mobile
 
 <img src="https://skillicons.dev/icons?i=react" alt="React Native">
 
-<img src="https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white" alt="Expo">
-<img src="https://img.shields.io/badge/Expo_Router-000020?style=flat-square&logo=expo&logoColor=white" alt="Expo Router">
-<img src="https://img.shields.io/badge/Reanimated-001A72?style=flat-square" alt="Reanimated">
-<img src="https://img.shields.io/badge/Secure_Store-000020?style=flat-square&logo=expo&logoColor=white" alt="Secure Store">
+![Expo](https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white)
+![Expo Router](https://img.shields.io/badge/Expo_Router-000020?style=flat-square&logo=expo&logoColor=white)
+![Reanimated](https://img.shields.io/badge/Reanimated-001A72?style=flat-square)
+![Secure Store](https://img.shields.io/badge/Secure_Store-000020?style=flat-square&logo=expo&logoColor=white)
 
 ### Calidad y pruebas
 
 <img src="https://skillicons.dev/icons?i=jest,vitest" alt="Jest, Vitest">
 
-<img src="https://img.shields.io/badge/Testing_Library-E33332?style=flat-square&logo=testinglibrary&logoColor=white" alt="Testing Library">
-<img src="https://img.shields.io/badge/Supertest-3F4A5A?style=flat-square" alt="Supertest">
-<img src="https://img.shields.io/badge/Cobertura-3F4A5A?style=flat-square" alt="Cobertura">
-<img src="https://img.shields.io/badge/Husky-3F4A5A?style=flat-square" alt="Husky">
+![Testing Library](https://img.shields.io/badge/Testing_Library-E33332?style=flat-square&logo=testinglibrary&logoColor=white)
+![Supertest](https://img.shields.io/badge/Supertest-3F4A5A?style=flat-square)
+![Cobertura](https://img.shields.io/badge/Cobertura-3F4A5A?style=flat-square)
+![Husky](https://img.shields.io/badge/Husky-3F4A5A?style=flat-square)
 
 ### DevOps
 
 <img src="https://skillicons.dev/icons?i=docker,githubactions,pnpm" alt="Docker, GitHub Actions, pnpm">
 
-<img src="https://img.shields.io/badge/Docker_Compose-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker Compose">
-<img src="https://img.shields.io/badge/CI-2088FF?style=flat-square&logo=githubactions&logoColor=white" alt="CI">
-<img src="https://img.shields.io/badge/Monorepos-F69220?style=flat-square&logo=pnpm&logoColor=white" alt="Monorepos">
+![Docker Compose](https://img.shields.io/badge/Docker_Compose-2496ED?style=flat-square&logo=docker&logoColor=white)
+![CI](https://img.shields.io/badge/CI-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![Monorepos](https://img.shields.io/badge/Monorepos-F69220?style=flat-square&logo=pnpm&logoColor=white)
 
 ### Metodología
 
 <img src="https://skillicons.dev/icons?i=git,github" alt="Git, GitHub">
 
-<img src="https://img.shields.io/badge/Scrum-009FDA?style=flat-square&logo=scrumalliance&logoColor=white" alt="Scrum">
-<img src="https://img.shields.io/badge/Conventional_Commits-FE5196?style=flat-square&logo=conventionalcommits&logoColor=white" alt="Conventional Commits">
-<img src="https://img.shields.io/badge/Pull_requests-181717?style=flat-square&logo=github&logoColor=white" alt="Pull requests">
-<img src="https://img.shields.io/badge/Revisi%C3%B3n_de_c%C3%B3digo-181717?style=flat-square&logo=github&logoColor=white" alt="Revisión de código">
+![Scrum](https://img.shields.io/badge/Scrum-009FDA?style=flat-square&logo=scrumalliance&logoColor=white)
+![Conventional Commits](https://img.shields.io/badge/Conventional_Commits-FE5196?style=flat-square&logo=conventionalcommits&logoColor=white)
+![Pull requests](https://img.shields.io/badge/Pull_requests-181717?style=flat-square&logo=github&logoColor=white)
+![Revisión de código](https://img.shields.io/badge/Revisi%C3%B3n_de_c%C3%B3digo-181717?style=flat-square&logo=github&logoColor=white)
 
 ## Proyectos destacados
 
